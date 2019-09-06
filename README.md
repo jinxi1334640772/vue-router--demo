@@ -1,6 +1,6 @@
-#涉及vuex的创建引入，以及实例化store，store目录的构建，state,getters,mutations,actions的创建、使用和组装成store，
-#涉及mapState(),mapGetters(),mapMutations()的用法，以及命名空间的使用
-#最后演示了几个常见的store实例的API的使用，replaceState(),subscribe(),subscribeAction(),watch(),hotUpdate()，这些算是vuex最常用的内容了。
+```
+# vue+vuex+vue-router的使用，几乎涉及到vuex和vue-router的所有知识的应用
+
 ```
 
 # store-test
